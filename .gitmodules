@@ -1,0 +1,6 @@
+[submodule "meme-generator-redux"]
+	path = meme-generator-redux
+	url = https://github.com/quentinikeno/Springboard-SEC-Unit-44.2-Meme-Generator-Exercise
+[submodule "todos-redux"]
+	path = todos-redux
+	url = https://github.com/quentinikeno/Springboard-SEC-Unit-44.2-Todo-App-Exercise
